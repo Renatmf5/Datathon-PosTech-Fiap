@@ -4,6 +4,19 @@ Projeto desenvolvido para acomodar três principais frentes sistêmicas na AWS C
 
 ---
 
+## Links para Repositórios
+
+Confira os repositórios modulares relacionados às frentes do projeto:
+
+- [Aplicação Web](https://app.grupo-ever-rmf.com/)
+- [FastApi dominio](https://api.grupo-ever-rmf.com/docs)
+- [AWS Infra Datathon](https://github.com/Renatmf5/aws-infra-datathon)
+- [Aplicação de ML / Pipeline de Treinamento](https://github.com/Renatmf5/ml-lab-datathon)
+- [Serviço FastAPI](https://github.com/Renatmf5/fastapi-service-datathon)
+- [Aplicação Web Next.js](https://github.com/Renatmf5/webapp-datathon)
+
+---
+
 ## Sumário
 
 - [Visão Geral da Infraestrutura](#visão-geral-da-infraestrutura)
@@ -139,16 +152,7 @@ A seguir, veja o diagrama que ilustra a arquitetura completa do projeto, integra
 
 ---
 
-## Links para Repositórios
 
-Confira os repositórios modulares relacionados às frentes do projeto:
-
-- [AWS Infra Datathon](https://github.com/Renatmf5/aws-infra-datathon)
-- [Aplicação de ML / Pipeline de Treinamento](https://github.com/Renatmf5/ml-lab-datathon)
-- [Serviço FastAPI](https://github.com/Renatmf5/fastapi-service-datathon)
-- [Aplicação Web Next.js](https://github.com/Renatmf5/webapp-datathon)
-
----
 
 ## Considerações Finais
 
